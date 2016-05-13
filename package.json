@@ -1,0 +1,26 @@
+{
+  "name": "node-markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "realtime",
+    "sharejs"
+  ],
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "redis": "^0.10.3",
+    "share": "^0.6.3"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  }
+}
